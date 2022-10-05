@@ -1,7 +1,5 @@
 # Heart disease classification
 
-**This structured-data project is a part of my Udemy Data Science & ML course.**
-
 This notebook comprises of a machine learning model that is capable of predicting if someone has a heart disease or not based on their medical attributes. The data is extracted from the Cleveland data from the [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease). 
 
 ### Data Dictionary
